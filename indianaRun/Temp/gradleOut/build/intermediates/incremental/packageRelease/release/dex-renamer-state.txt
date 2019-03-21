@@ -1,0 +1,4 @@
+#Thu Oct 18 22:33:32 BST 2018
+base.0=C\:\\Users\\Admin\\Desktop\\Unity Project\\indianaRun\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
